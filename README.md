@@ -1,6 +1,6 @@
 # kaitaishinsho
 
-このリポジトリの育て方
+このリポジトリの育て方  
 How to raise this repo up.
 
 1. `git pull`でこのリモートリポジトリをローカルに反映する.
@@ -17,7 +17,7 @@ How to raise this repo up.
 - `$ for x in ${PATH//:/ }; do ls -1 $x; done | sort | uniq`の結果を以下に示します.
 
 - 以下調査予定コマンド一覧（2023/12/06）
-
+```
 GET
 HEAD
 ModemManager
@@ -1691,3 +1691,4 @@ zstdcat
 zstdgrep
 zstdless
 zstdmt
+```

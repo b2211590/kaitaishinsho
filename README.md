@@ -1,6 +1,6 @@
 # kaitaishinsho
 
-このリポジトリの育て方  
+このリポジトリの育て方
 How to raise this repo up.
 
 1. `git pull`でこのリモートリポジトリをローカルに反映する.

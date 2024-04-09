@@ -14,7 +14,7 @@ def get_command_names(directory):
     command_names = []
     for filename in os.listdir(directory):
         if filename.endswith('.md'):
-            command_names.append(os.path.splitext(filename)[0])
+            command_names.append(f'"{os.path.splitext(filename)[0]}"')
     return command_names
 
 
@@ -28,7 +28,6 @@ if __name__ == "__main__":
     # Output command names to a file
     output_file_path = "command_names.txt"
     with open(output_file_path, 'w') as output_file:
-        for name in command_names:
-            output_file.write(name + '\n')
+        output_file.write('\n'.join(command_names))
 
     print(f"Command names have been saved to {output_file_path}.")

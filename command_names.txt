@@ -28,6 +28,7 @@
 "pydoc3"
 "apt-mark"
 "date"
+"cd"
 "do-release-upgrade"
 "pwck"
 "timedatectl"

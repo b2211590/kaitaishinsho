@@ -82,3 +82,5 @@
 "rbash"
 "aptdcon"
 "gst-discoverer-1.0"
+"vi"
+"nano"

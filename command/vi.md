@@ -21,14 +21,14 @@ viは、コマンドラインベースのエディタであり、テキスト編
 ### エディタからの抜け出し方
  
 - この画面から抜け出したいと思ったら  
-   ![alt text](vi1.png)
+   ![alt text](../kitagawa/vi1.png)
 
 1. escキーを押す  
-   ![alt text](vi2.png)  
+   ![alt text](../kitagawa/vi2.png)  
    入力モードからコマンドモードへ
 
 2. :wq を入力する  
-   ![alt text](vi3.png)   
+   ![alt text](../kitagawa/vi3.png)   
    
 3. enterキーを押す
 

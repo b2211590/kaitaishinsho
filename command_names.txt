@@ -84,3 +84,4 @@
 "gst-discoverer-1.0"
 "vi"
 "nano"
+"cp"

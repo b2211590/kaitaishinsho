@@ -26,7 +26,12 @@ if __name__ == "__main__":
     command_names = get_command_names(directory_path)
 
     # Output command names to a file
-    output_file_path = "command_names.txt"
+    output_file_path = "commands.txt"
+
+    if os.path.exists(output_file_path):
+        os.remove(output_file_path)
+        print(f"Removed {output_file_path}.")
+
     with open(output_file_path, 'w') as output_file:
         output_file.write('\n'.join(command_names))
 

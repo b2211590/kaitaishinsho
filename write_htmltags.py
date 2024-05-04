@@ -28,8 +28,9 @@ if __name__ == "__main__":
     # Output html_tags to a file
     output_file_path = "html_tags.txt"
 
-    if output_file_path:
-        pass
+    if os.path.exists(output_file_path):
+        os.remove(output_file_path)
+        print(f"Removed {output_file_path}.")
 
     with open(output_file_path, 'w') as output_file:
         output_file.write('\n'.join(html_tags))

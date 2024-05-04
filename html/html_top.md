@@ -28,8 +28,8 @@ HTML（HyperText Markup Language）は、ウェブページを作成するため
 
 ### タグ一覧
 
-<font size="5">[B](b.md)</font>太文字
-<font size="5">[BODY](b.md)</font>メインコンテンツ
+<font size="5"><a href="b.md">B</a></font>太文字
+<font size="5">[BODY](body.md)</font>メインコンテンツ
 <font size="5">[FORM](form.md)</font>情報を送ることができる
 <font size="5">[H](h.md)</font>見出し
 <font size="5">[HEAD](head.md)</font>ヘッダー情報

@@ -1,4 +1,4 @@
-<h3><a href="https://b2211590.github.io/kaitaishinsho/html/html_top"><B>topへ戻る</B></a></h3>
+<button type="button" onclick="history.back()">戻る</button>
 
 # < form > < /form >
 

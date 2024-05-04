@@ -1,4 +1,4 @@
-<h3><a href="https://b2211590.github.io/kaitaishinsho/html/html_top"><B>topへ戻る</B></a></h3>
+<button type="button" onclick="history.back()">戻る</button>
 
 # < P > < /P >
 PタグはParagraph(段落)という意味である。pタグは< /p>で閉じなくともpタグが先頭にある行は一つの段落になる。

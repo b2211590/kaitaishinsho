@@ -1,4 +1,4 @@
-<h3><a href="https://b2211590.github.io/kaitaishinsho/html/html_top"><B>topへ戻る</B></a></h3>
+<button type="button" onclick="history.back()">戻る</button>
 
 # < HEAD > < /HEAD >
 HTML のヘッド部は < HEAD > 要素の内容である。ヘッド部の内容はページには表示されない。その代わり、ヘッド部の仕事は文書のメタデータを含んでいる。メタデータとはデータを説明するためのデータである。

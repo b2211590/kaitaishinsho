@@ -1,4 +1,4 @@
-<h3><a href="https://b2211590.github.io/kaitaishinsho/html/html_top"><B>topへ戻る</B></a></h3>
+<button type="button" onclick="history.back()">戻る</button>
 
 # < HTML > < /HTML >
 構造を意味するタグ。この文書が HTML文書であることを指定する。HTML 文書のルート（最上位要素）を表すので、ルート要素とも呼ばれる。他のすべての要素は、この要素の子孫として基本的には配置しなければならない。

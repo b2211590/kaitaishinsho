@@ -1,4 +1,4 @@
-[](cp.md)
+[](ファイル名はコマンド名.md)
 # cp
 ファイルやディレクトリをコピーする時に使うLinuxコマンド。
 "cp"は"copy"の略。
@@ -32,7 +32,7 @@
   実行例 [](変更しない)
   
   ```
-  $ cp -f -v test.txt test2.txt
+  $ cp -f test.txt test2.txt
   ```
 
 
@@ -41,7 +41,7 @@
   実行結果に変化は無い
 
   ```
-  'test.txt' -> 'test2.txt'
+  デフォルトだと実行結果の表示は無い
   ```
 
 
@@ -53,21 +53,22 @@
   実行例 [](変更しない)
   
   ```
-  $ cp -v -i test.txt test2.txt
+  $ cp -i test.txt test2.txt
   ```
 
 
   実行結果　[](変更しない)
 
+  上書きを行うかの確認が入る。
+
   ```
   cp: overwrite '/home/admin/test2/test2'? yes
-  'test' -> '/home/admin/test2/test2'
   ```
 
 
 - **-v**
   
-  実行内容を表示する。
+  実行内容を表示する。  
   デフォルトは結果表示なし。
 
   実行例 [](変更しない)

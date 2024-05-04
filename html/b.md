@@ -1,4 +1,6 @@
 <h3><a href="https://b2211590.github.io/kaitaishinsho/html/html_top"><B>topへ戻る</B></a></h3>
+<button type="button" onclick="history.back()">戻る</button>
+
 
 # < B > < /B >
 BタグはBold(太い)の意味である。表示結果からもわかるようにBタグは< /B>で閉じなくともBタグが先頭にある行は一つの見出しになる。

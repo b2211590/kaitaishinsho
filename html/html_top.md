@@ -28,10 +28,24 @@ HTML（HyperText Markup Language）は、ウェブページを作成するため
 
 ### タグ一覧
 
-<font size="5"><a href="b.md">B</a></font>太文字
-<font size="5">[BODY](body.md)</font>メインコンテンツ
-<font size="5">[FORM](form.md)</font>情報を送ることができる
-<font size="5">[H](h.md)</font>見出し
-<font size="5">[HEAD](head.md)</font>ヘッダー情報
-<font size="5">[HTML](html.md)</font>HTML文と指定する
-<font size="5">[P](p.md)</font>一つの段落、文章
+<font size="5">
+  <a href="https://b2211590.github.io/kaitaishinsho/html/b"><B>B</B></a>
+</font>太文字
+<font size="5">
+  <a href="https://b2211590.github.io/kaitaishinsho/html/body"><B>BODY</B></a>
+</font>メインコンテンツ
+<font size="5">
+  <a href="https://b2211590.github.io/kaitaishinsho/html/form"><B>FORM</B></a>
+</font>情報を送ることができる
+<font size="5">
+  <a href="https://b2211590.github.io/kaitaishinsho/html/h"><B>H</B></a>
+</font>見出し
+<font size="5">
+  <a href="https://b2211590.github.io/kaitaishinsho/html/head"><B>HEAD</B></a>
+</font>ヘッダー情報
+<font size="5">
+  <a href="https://b2211590.github.io/kaitaishinsho/html/html"><B>HTML</B></a>
+</font>HTML文と指定する
+<font size="5">
+  <a href="https://b2211590.github.io/kaitaishinsho/html/p"><B>P</B></a>
+</font>一つの段落、文章

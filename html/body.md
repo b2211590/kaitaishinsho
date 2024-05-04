@@ -12,4 +12,4 @@
   ```
 表示結果　[](変更しない)
 
-![](https://raw.githubusercontent.com/YanaSota/kaitaishinsho/main/goto/Body.png)
+![](../goto/Body.png)

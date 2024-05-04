@@ -24,15 +24,15 @@ HTML（HyperText Markup Language）は、ウェブページを作成するため
 
 表示結果　[](変更しない)
 
-![](https://raw.githubusercontent.com/YanaSota/kaitaishinsho/main/goto/%E5%88%9D%E3%83%94%E3%83%B3%E3%82%B0.png)
+![](../goto/html_top.png)
 
 
-### タグ一覧 
+### タグ一覧
 
-- **[B](https://github.com/YanaSota/kaitaishinsho/blob/main/goto/tsort.md)** 　 太文字
-- **[BODY](https://github.com/YanaSota/kaitaishinsho/blob/main/goto/tsort.md)** 　 本コンテンツ
-- **[FORM](https://github.com/YanaSota/kaitaishinsho/blob/main/goto/tsort.md)** 　 情報を送ることができる
-- **[H](https://github.com/YanaSota/kaitaishinsho/blob/main/goto/tsort.md)** 　 見出し
-- **[HEAD](https://github.com/YanaSota/kaitaishinsho/blob/main/goto/tsort.md)** 　 ヘッダー情報
-- **[HTML](https://github.com/YanaSota/kaitaishinsho/blob/main/goto/tsort.md)** 　 HTML文と指定する
-- **[P](https://github.com/YanaSota/kaitaishinsho/blob/main/goto/tsort.md)** 　 一つの段落、文章
+- **[B](b.md)** 　 太文字
+- **[BODY](body.md)** 　 本コンテンツ
+- **[FORM](form.md)** 　 情報を送ることができる
+- **[H](h.md)** 　 見出し
+- **[HEAD](head.md)** 　 ヘッダー情報
+- **[HTML](html.md)** 　 HTML文と指定する
+- **[P](p.md)** 　 一つの段落、文章

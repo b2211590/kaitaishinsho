@@ -39,7 +39,7 @@ HTML のヘッド部は < HEAD > 要素の内容である。ヘッド部の内�
   <br>
 
   <b>実行結果</b>
-  ![](https://raw.githubusercontent.com/YanaSota/kaitaishinsho/main/goto/%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF%20gead.png "今回用いる処理グラフ")
+  ![](../goto/head.png)
 
   <br>
   

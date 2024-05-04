@@ -18,4 +18,4 @@ BタグはBold(太い)の意味である。表示結果からもわかるよう�
 
 表示結果　[](変更しない)
 
-![](https://raw.githubusercontent.com/YanaSota/kaitaishinsho/main/goto/BoldCat.png)
+![](../goto/BoldCat.png)

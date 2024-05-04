@@ -32,7 +32,7 @@
   ```
   実行結果.1　[](変更しない)
 
-  ![](https://raw.githubusercontent.com/YanaSota/kaitaishinsho/main/goto/hello_ja.png)
+  ![](../goto/html1.png)
   <br>
   記述例.2 [](変更しない)
   
@@ -45,4 +45,4 @@
   ```
   実行結果.2　[](変更しない)
 
-  ![](https://raw.githubusercontent.com/YanaSota/kaitaishinsho/main/goto/Hello_en.png)
+  ![](../goto/html2.png)

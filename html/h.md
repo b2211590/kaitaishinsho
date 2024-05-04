@@ -17,4 +17,4 @@ HタグはHeading(見出し)の意味である。表示結果からもわかる�
 ```
 
 表示結果　[](変更しない)
-![](https://raw.githubusercontent.com/YanaSota/kaitaishinsho/main/goto/H%E3%82%BF%E3%82%B0.png)
+![](../goto/h.png)

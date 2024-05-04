@@ -15,4 +15,4 @@ PタグはParagraph(段落)という意味である。pタグは< /p>で閉じ�
 
 表示結果　[](変更しない)
 
-![](https://raw.githubusercontent.com/YanaSota/kaitaishinsho/main/goto/ptag.png)
+![](../goto/p.png)

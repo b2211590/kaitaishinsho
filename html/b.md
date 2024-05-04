@@ -7,15 +7,11 @@ BタグはBold(太い)の意味である。表示結果からもわかるよう�
 
 ```
 <BODY>
-    <H1>H1_H1</H1>
-    <H2>H2_H2
-    <H3>H3_H3
-    <H4>H4_H4
-    <H5>H5_H5</H5>
-    <H6>H6_H6</H6>
+    <P> Not Bold Cat
+    <B> Yes Bold Cat
 </BODY>
 ```
 
 表示結果　[](変更しない)
 
-![](../goto/BoldCat.png)
+![](../goto/b.png)

@@ -26,13 +26,25 @@ HTML（HyperText Markup Language）は、ウェブページを作成するため
 
 ![](../goto/html_top.png)
 
-
 ### タグ一覧
 
-- **[B](b.md)** 　 太文字
-- **[BODY](body.md)** 　 本コンテンツ
-- **[FORM](form.md)** 　 情報を送ることができる
-- **[H](h.md)** 　 見出し
-- **[HEAD](head.md)** 　 ヘッダー情報
-- **[HTML](html.md)** 　 HTML文と指定する
-- **[P](p.md)** 　 一つの段落、文章
+**[B](b.md)**
+太文字
+
+**[BODY](body.md)**
+本コンテンツ
+
+**[FORM](form.md)**
+情報を送ることができる
+
+**[H](h.md)**
+見出し
+
+**[HEAD](head.md)**
+ヘッダー情報
+
+**[HTML](html.md)**
+HTML文と指定する
+
+**[P](p.md)**
+一つの段落、文章

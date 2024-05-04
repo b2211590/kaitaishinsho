@@ -28,10 +28,10 @@ HTML（HyperText Markup Language）は、ウェブページを作成するため
 
 ### タグ一覧
 
-<h2>[B](b.md)</h2>太文字
-<h2>[BODY](b.md)</h2>メインコンテンツ
-<h2>[FORM](form.md)</h2>情報を送ることができる
-<h2>[H](h.md)</h2>見出し
-<h2>[HEAD](head.md)</h2>ヘッダー情報
-<h2>[HTML](html.md)</h2>HTML文と指定する
-<h2>[P](p.md)</h2>一つの段落、文章
+<font size="5">[B](b.md)</font>太文字
+<font size="5">[BODY](b.md)</font>メインコンテンツ
+<font size="5">[FORM](form.md)</font>情報を送ることができる
+<font size="5">[H](h.md)</font>見出し
+<font size="5">[HEAD](head.md)</font>ヘッダー情報
+<font size="5">[HTML](html.md)</font>HTML文と指定する
+<font size="5">[P](p.md)</font>一つの段落、文章

@@ -28,23 +28,23 @@ HTML（HyperText Markup Language）は、ウェブページを作成するため
 ### タグ一覧
 
 <font size="5">
-  <a href="../html/b"><B>B</B></a>
+  <a href="b"><B>B</B></a>
 </font>太文字
 <font size="5">
-  <a href="../html/body"><B>BODY</B></a>
+  <a href="body"><B>BODY</B></a>
 </font>メインコンテンツ
 <font size="5">
-  <a href="../html/form"><B>FORM</B></a>
+  <a href="form"><B>FORM</B></a>
 </font>情報を送ることができる
 <font size="5">
-  <a href="../html/h"><B>H</B></a>
+  <a href="h"><B>H</B></a>
 </font>見出し
 <font size="5">
-  <a href="../html/head"><B>HEAD</B></a>
+  <a href="head"><B>HEAD</B></a>
 </font>ヘッダー情報
 <font size="5">
-  <a href="../html/html"><B>HTML</B></a>
+  <a href="html"><B>HTML</B></a>
 </font>HTML文と指定する
 <font size="5">
-  <a href="../html/p"><B>P</B></a>
+  <a href="p"><B>P</B></a>
 </font>一つの段落、文章

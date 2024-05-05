@@ -1,4 +1,5 @@
-[](ファイル名はコマンド名.md)
+<button type="button" onclick="window.location.href='https://b2211590.github.io/kaitaishinsho/command/form'">form へ</button>
+
 # nano
 Nanoはテキストエディタであり、viと異なりモード変更は使用せず、ctrl+αで操作を行う。
 

@@ -1,4 +1,4 @@
-<button type="button" onclick="history.back()">戻る</button>
+<button type="button" onclick="window.location.href='https://b2211590.github.io/kaitaishinsho/command/nano'">nano へ</button>
 
 # < form > < /form >
 

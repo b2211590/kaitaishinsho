@@ -28,7 +28,7 @@ HTML（HyperText Markup Language）は、ウェブページを作成するため
 ### タグ一覧
 
 <font size="5">
-  <a href="b"><B>B</B></a>
+  <a href="../html/b"><B>B</B></a>
 </font>太文字
 <font size="5">
   <a href="body"><B>BODY</B></a>

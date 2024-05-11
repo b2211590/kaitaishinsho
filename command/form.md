@@ -17,39 +17,18 @@
 
 ### 使用できるタグ一覧
 
-- **inputタグ** 
-    
+- **inputタグ**
+
   フォームのパーツを作成するためのタグ。type属性を設定することで、テキストを入力するのか、データを送信するのかなどを指定できる。
-  
+
   | 要素 | 内容 |
   | :---: | :---: |
   |type="text"|テキスト入力欄を作成|
   |type="file"|ファイル選択を作成|
   |type="submit"|送信ボタンを作成|
-  
-
 
   記述例.1　[](変更しない)
-  
-  ```
-  <FORM METHOD=POST ACTION="URLを指定">
-    <INPUT TYPE=text >
-    <br>  <!-- <br>は改行 -->
-    <INPUT TYPE=submit>
-  </FORM>
-  ```
-  この例では、ACTIONで指定したURLにINPUTのtextの値を送信している。
-  <br>
 
-
-  実行結果.1　[](変更しない)
-  ![](../nakanishi/form1.png)
-  <br>
- 
-
-  記述例.2　[](変更しない)
-  
-  
   ```
   <FORM METHOD=POST ACTION="URLを指定">
     <INPUT TYPE=file >
@@ -60,10 +39,27 @@
   この例では、ACTIONで指定したURLにINPUTのfileの値を送信している。
   <br>
 
-
-  実行結果.2　[](変更しない)
+  実行結果.1　[](変更しない)
   ![](../nakanishi/form2.png)
   <br>
+
+
+  記述例.2　[](変更しない)
+
+  ```
+  <FORM METHOD=POST ACTION="URLを指定">
+    <INPUT TYPE=text >
+    <br>  <!-- <br>は改行 -->
+    <INPUT TYPE=submit>
+  </FORM>
+  ```
+  この例では、ACTIONで指定したURLにINPUTのtextの値を送信している。
+  <br>
+
+  実行結果.2　[](変更しない)
+  ![](../nakanishi/form1.png)
+  <br>
+
 
 ### 属性一覧
 

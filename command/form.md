@@ -23,20 +23,21 @@
 
   | 要素 | 内容 |
   | :---: | :---: |
-  |type="text"|テキスト入力欄を作成|
-  |type="file"|ファイル選択を作成|
-  |type="submit"|送信ボタンを作成|
+  |TYPE="text"|テキスト入力欄を作成|
+  |TYPE="file"|ファイル選択を作成|
+  |TYPE="submit"|送信ボタンを作成|
 
   記述例.1　[](変更しない)
 
   ```
-  <FORM METHOD="POST" ACTION="URLを指定">
+  <FORM METHOD="POST" ACTION="URLを指定" ENCTYPE="multipart/form-data">
     <INPUT TYPE="file" >
     <br>
     <INPUT TYPE="submit">
   </FORM>
   ```
   この例では、ACTIONで指定したURLにINPUTのfileの値を送信している。
+  また、`TYPE="file"` と指定した時には必ず `ENCTYPE="multipart/form-data"` をformタグの中に書かなければならない。
   <br>
 
   実行結果.1　[](変更しない)

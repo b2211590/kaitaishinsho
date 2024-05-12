@@ -8,9 +8,9 @@
   記述例 [](変更しない)
   
   ```
-  <FORM METHOD=POST ACTION="URLを指定">
-    <INPUT TYPE=text NAME=変数名> 
-    <INPUT TYPE=submit> 
+  <FORM METHOD="POST" ACTION="URLを指定">
+    <INPUT TYPE="text" NAME="変数名"> 
+    <INPUT TYPE="submit"> 
   </FORM>
   ```
   ＊記述例では大文字で書いているが小文字でも良い。
@@ -30,10 +30,10 @@
   記述例.1　[](変更しない)
 
   ```
-  <FORM METHOD=POST ACTION="URLを指定">
-    <INPUT TYPE=file >
+  <FORM METHOD="POST" ACTION="URLを指定">
+    <INPUT TYPE="file" >
     <br>
-    <INPUT TYPE=submit>
+    <INPUT TYPE="submit">
   </FORM>
   ```
   この例では、ACTIONで指定したURLにINPUTのfileの値を送信している。
@@ -47,10 +47,10 @@
   記述例.2　[](変更しない)
 
   ```
-  <FORM METHOD=POST ACTION="URLを指定">
-    <INPUT TYPE=text >
+  <FORM METHOD="POST" ACTION="URLを指定">
+    <INPUT TYPE="text" >
     <br>  <!-- <br>は改行 -->
-    <INPUT TYPE=submit>
+    <INPUT TYPE="submit">
   </FORM>
   ```
   この例では、ACTIONで指定したURLにINPUTのtextの値を送信している。
@@ -102,10 +102,10 @@
   実行例　[](変更しない)
   
   ```
-  <FORM METHOD=POST ACTION="URLを指定">
-    <INPUT TYPE=text name=username> 
+  <FORM METHOD="POST" ACTION="URLを指定">
+    <INPUT TYPE="text" name="username"> 
     <br>
-    <INPUT TYPE=submit > 
+    <INPUT TYPE="submit" > 
   </FORM>
   ```
   この例ではMETHODをPOSTで指定し、ACTIONで指定されたURLにINPUTのtext値を変数（キー）"username"に格納して送信している。
@@ -123,10 +123,10 @@
   実行例　[](変更しない)
   
   ```
-  <FORM METHOD=POST ACTION="URLを指定">
-    <INPUT TYPE=file NAME=file> 
+  <FORM METHOD="POST" ACTION="URLを指定">
+    <INPUT TYPE="file" NAME="file"> 
     <br>
-    <INPUT TYPE=submit value=ファイルを送信> 
+    <INPUT TYPE="submit" value="ファイルを送信"> 
   </FORM>
   ```
 

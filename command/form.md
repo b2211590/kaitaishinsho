@@ -8,10 +8,10 @@
   記述例 [](変更しない)
   
   ```
-  <FORM METHOD="POST" ACTION="URLを指定">
-    <INPUT TYPE="text" NAME="変数名"> 
-    <INPUT TYPE="submit"> 
-  </FORM>
+  <form method="post" action="URLを指定">
+    <input type="text" name="変数名"> 
+    <input type="submit"> 
+  </form>
   ```
   ＊記述例では大文字で書いているが小文字でも良い。
 
@@ -23,21 +23,21 @@
 
   | 要素 | 内容 |
   | :---: | :---: |
-  |TYPE="text"|テキスト入力欄を作成|
-  |TYPE="file"|ファイル選択を作成|
-  |TYPE="submit"|送信ボタンを作成|
+  |type="text"|テキスト入力欄を作成|
+  |type="file"|ファイル選択を作成|
+  |type="submit"|送信ボタンを作成|
 
   記述例.1　[](変更しない)
 
   ```
-  <FORM METHOD="POST" ACTION="URLを指定" ENCTYPE="multipart/form-data">
-    <INPUT TYPE="file" >
+  <form method="post" action="URLを指定" enctype="multipart/form-data">
+    <input type="file" >
     <br>
-    <INPUT TYPE="submit">
-  </FORM>
+    <input type="submit">
+  </form>
   ```
-  この例では、ACTIONで指定したURLにINPUTのfileの値を送信している。
-  また、`TYPE="file"` と指定した時には必ず `ENCTYPE="multipart/form-data"` をformタグの中に書かなければならない。
+  この例では、actionで指定したURLにINPUTのfileの値を送信している。
+  また、`type="file"` と指定した時には必ず `ENCtype="multipart/form-data"` をformタグの中に書かなければならない。
   <br>
 
   実行結果.1　[](変更しない)
@@ -48,13 +48,13 @@
   記述例.2　[](変更しない)
 
   ```
-  <FORM METHOD="POST" ACTION="URLを指定">
-    <INPUT TYPE="text" >
+  <form method="post" action="URLを指定">
+    <input type="text" >
     <br>  <!-- <br>は改行 -->
-    <INPUT TYPE="submit">
-  </FORM>
+    <input type="submit">
+  </form>
   ```
-  この例では、ACTIONで指定したURLにINPUTのtextの値を送信している。
+  この例では、actionで指定したURLにINPUTのtextの値を送信している。
   <br>
 
   実行結果.2　[](変更しない)
@@ -72,7 +72,7 @@
   記述例 [](変更しない)
   
   ```
-  <FORM ACTION="URLを指定">
+  <form action="URLを指定">
   ```
 
 - **method属性** 
@@ -89,7 +89,7 @@
   記述例　[](変更しない)
   
   ```
-  <FORM METHOD="POST" ACTION="URLを指定">
+  <form method="post" action="URLを指定">
   ```
 
 
@@ -103,13 +103,13 @@
   実行例　[](変更しない)
   
   ```
-  <FORM METHOD="POST" ACTION="URLを指定">
-    <INPUT TYPE="text" name="username"> 
+  <form method="post" action="URLを指定">
+    <input type="text" name="username"> 
     <br>
-    <INPUT TYPE="submit" > 
-  </FORM>
+    <input type="submit" > 
+  </form>
   ```
-  この例ではMETHODをPOSTで指定し、ACTIONで指定されたURLにINPUTのtext値を変数（キー）"username"に格納して送信している。
+  この例ではmethodをpostで指定し、actionで指定されたURLにINPUTのtext値を変数（キー）"username"に格納して送信している。
 
 
   実行結果　[](変更しない)
@@ -124,11 +124,11 @@
   実行例　[](変更しない)
   
   ```
-  <FORM METHOD="POST" ACTION="URLを指定">
-    <INPUT TYPE="file" NAME="file"> 
+  <form method="post" action="URLを指定">
+    <input type="file" name="file"> 
     <br>
-    <INPUT TYPE="submit" value="ファイルを送信"> 
-  </FORM>
+    <input type="submit" value="ファイルを送信"> 
+  </form>
   ```
 
 

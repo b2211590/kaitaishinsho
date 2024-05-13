@@ -9,8 +9,8 @@ bタグはBold(太い)の意味である。表示結果からもわかるよう�
 
 ```
 <body>
-    <p> Not Bold Cat
-    <b> Yes Bold Cat
+  <p> Not Bold Cat
+  <b> Yes Bold Cat
 </body>
 ```
 
